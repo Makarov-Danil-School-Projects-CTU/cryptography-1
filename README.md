@@ -1,3 +1,5 @@
+Keywords: C++, Open SSL, Hash functions
+
 📝 Task Objective:
 
 Your task is to implement a function (or a set of functions, not a full program) that finds any message whose hash (SHA-512) starts with a specified sequence of zero bits from the left.
